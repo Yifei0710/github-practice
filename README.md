@@ -1,4 +1,5 @@
 # github-practice
+Yayy geting close to finish setting up everything! 
 
 Practice using Git &amp; Github
 
